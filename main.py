@@ -32,7 +32,7 @@ elif pisatuta == -1:
         print(balanza.emaitza(bolas[5]))
 
 else:
-    pisatuta_3 = balanza.pesar(bolas[5:6], bolas[6:7])
+    pisatuta_3 = balanza.pesar(bolas[6:7], bolas[7:8])
     if pisatuta_3 == 1:
         print(balanza.emaitza(bolas[6]))
     elif pisatuta_3 == -1:
