@@ -38,7 +38,7 @@ else:
     elif pisatuta_3 == -1:
         print(balanza.emaitza(bolas[7]))
     else:
-        print("no se ha entonrado ")
-        
+        print(balanza.emaitza(bolas[8]))
+
 
 # Muestra el resultado de la comparación
